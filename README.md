@@ -1,4 +1,5 @@
-# JSP Page with Recommendation Based on Day time
+
+# Parvin's file JSP Page with Recommendation Based on Day time
 
  Dear students,
 
@@ -16,7 +17,7 @@ For instance,
 
 Homework 2
 
-# Servlet Based Student Personal Cabinet
+# HW2's file Servlet Based Student Personal Cabinet
 
 Please create Backend Application using Servlet and JSP technology which will consist of Registration, Authentication and Personal Cabinet page by integration with PostgreSQL using JDBC driver and Connection Pool
 
